@@ -1,0 +1,4 @@
+Python codes to create co-ordinate file for 3D Simple cubic crystal lattice structure.
+Enter the lattice parameters corresponding to the type of material, which are aimed to create.
+Enter the size the crystal in XYZ direction in angstron.
+Execute the file.
